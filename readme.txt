@@ -9,3 +9,6 @@ myeclipse 2014
 选择esri template，即可生成示例工程；
 
 4、自定义 toolbox 在示例工程 resource文件夹下
+
+5、该工程对应的一篇说明文章地址：
+http://www.cnblogs.com/gregcn/p/8868497.html
