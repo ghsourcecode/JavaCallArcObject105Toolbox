@@ -12,3 +12,5 @@ myeclipse 2014
 
 5、该工程对应的一篇说明文章地址：
 http://www.cnblogs.com/gregcn/p/8868497.html
+
+说明：AO开发的程序经与ESRI技术支持交流，其10.1之后的版本，无法在tomcat等容器中运行
